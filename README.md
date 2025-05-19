@@ -1,1 +1,1 @@
-"This is the description of my repo" 
+"## Objective\nThis project demonstrates branching, merging, and conflict resolution in Git." 
